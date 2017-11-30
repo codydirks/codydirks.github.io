@@ -42,14 +42,29 @@ ul.posts li {
     list-style: none;
 }
 
-.header img{
-    float: right;
-    width: 150;
-    height: 150;
+img {
+    border-radius: 25%;
+    }
+
+/* Create two unequal columns that floats next to each other */
+.column {
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
 }
 
-.header h1{
-    display: inline;
-    align: bottom;
+.left {
     float: left;
+    width: 70%;
+}
+
+.right {
+    float: right;
+    width: 30%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
