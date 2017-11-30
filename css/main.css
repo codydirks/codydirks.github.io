@@ -49,7 +49,6 @@ img {
 /* Create two unequal columns that floats next to each other */
 .column {
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .left {
