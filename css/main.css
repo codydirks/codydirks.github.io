@@ -46,11 +46,11 @@ ul.posts li {
     float: right;
     width: 150;
     height: 150;
-    clear: right;
+    clear: both;
 }
 
 .header h1{
     display: inline;
     float: left;
-    clear: right;
+    clear: both;
 }
