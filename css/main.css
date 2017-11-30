@@ -54,12 +54,12 @@ img {
 }
 
 .left {
-    float: left;
+    display: block;
     width: 50%;
 }
 
 .right {
-    float: right;
+    display: block;
     width: 50%;
 }
 
