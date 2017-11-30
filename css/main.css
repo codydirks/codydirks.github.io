@@ -49,7 +49,6 @@ ul.posts li {
 }
 
 .header h1{
-    position: relative;
-    top:18px;
-    left: 10px;
+    display: inline;
+    float: left;
 }
