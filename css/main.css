@@ -47,3 +47,9 @@ ul.posts li {
     width: 150;
     height: 150;
 }
+
+.header h1{
+    position: relative;
+    top:18px;
+    left: 10px;
+}
