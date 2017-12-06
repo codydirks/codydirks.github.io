@@ -35,7 +35,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 1em;
 }
 
 ul.posts {
@@ -72,12 +72,12 @@ img {
 
 .footer_inner_left{
 width: 49%;
-Float: left;
+float: left;
 display:inline;
 }
 
 .footer_inner_right{
 width: 49%;
-Float: right;
+float: right;
 display:inline;
 }
