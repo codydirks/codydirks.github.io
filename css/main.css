@@ -66,3 +66,18 @@ img {
     display: table;
     clear: both;
 }
+
+.footer_outer{
+}
+
+.footer_inner_left{
+width: 49%;
+Float: left;
+display:inline;
+}
+
+.footer_inner_right{
+width: 49%;
+Float: right;
+display:inline;
+}
